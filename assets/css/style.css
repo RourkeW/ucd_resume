@@ -26,6 +26,10 @@
     color:#525252;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 /*--------------------------------------------Special paddings/margins and text*/
 
 h1, h2, h3, h4 {
